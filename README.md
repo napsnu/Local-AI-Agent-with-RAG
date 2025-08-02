@@ -1,4 +1,3 @@
-# Local-AI-Agent-with-RAG
 # 🍕 Pizza Restaurant Q&A Agent
 
 A Python-based AI agent that answers questions about a pizza restaurant using real customer reviews.  
