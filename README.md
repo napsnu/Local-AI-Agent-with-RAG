@@ -35,8 +35,8 @@ c:\Local AI Agent
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/pizza-restaurant-agent.git
-cd pizza-restaurant-agent
+git clone https://github.com/napsnu/Local-AI-Agent-with-RAG.git
+cd Local-AI-Agent-with-RAG
 ```
 
 ### 2. Set Up Python Environment
@@ -121,12 +121,7 @@ docker run -p 8501:8501 pizza-agent
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
 
 ## Contact
 
-For questions or support, please open an issue or contact [your.email@example.com](mailto:your.email@example.com).
+For questions or support, please open an issue or contact(anshusafalpatel@gmail.com).
